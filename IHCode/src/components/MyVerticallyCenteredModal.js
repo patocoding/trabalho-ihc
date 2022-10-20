@@ -21,7 +21,7 @@ function MyVerticallyCenteredModal(props) {
       <Modal.Body>
         <h4>Código enviado!</h4>
         <p>
-          Foi enviado um código para: cayobrunogostosao@hotmail.com
+          Foi enviado um código para: ElementoDeNavegação@hotmail.com
         </p>
       </Modal.Body>
       <Modal.Footer>

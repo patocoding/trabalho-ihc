@@ -5,7 +5,7 @@ import styles from  './ButtonExample.module.css'
 function ButtonExample() {
   return (
     <Button className={styles.buttonBadge} variant="primary">
-      Você tem Novas Mensagens - BADGE <Badge bg="secondary"> 9</Badge>
+      Voce tem Elementos de Saída e Entrada - BADGE/BUTTON <Badge bg="secondary"> 9</Badge>
     </Button>
   );
 }

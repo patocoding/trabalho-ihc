@@ -17,15 +17,15 @@ function Navbarr() {
             style={{ maxHeight: '100px' }}
             navbarScroll
           >
-            <Nav.Link href="#action1">Home</Nav.Link>
-            <Nav.Link href="#action2">Fotos</Nav.Link>
-            <NavDropdown title="Meus Gatos - DROPDOWN" id="navbarScrollingDropdown">
-              <NavDropdown.Item href="#action3">Cookie</NavDropdown.Item>
+            <Nav.Link href="#action1">Elemento de</Nav.Link>
+            <Nav.Link href="#action2">Navegação</Nav.Link>
+            <NavDropdown title="Meus Gatos" id="navbarScrollingDropdown">
+              <NavDropdown.Item href="#action3">Cookie Elemento</NavDropdown.Item>
               <NavDropdown.Item href="#action4">
-               Zezé
+               Zezé De
               </NavDropdown.Item>
               <NavDropdown.Item href="#action5">
-                Serafina
+                Serafina Entrada
               </NavDropdown.Item>
             </NavDropdown>
 
@@ -33,7 +33,7 @@ function Navbarr() {
           <Form className="d-flex">
             <Form.Control
               type="search"
-              placeholder="Pesquise algo no site..."
+              placeholder="Elemento de navegação Search"
               className="me-2"
               aria-label="Search"
             />

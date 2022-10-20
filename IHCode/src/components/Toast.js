@@ -33,7 +33,7 @@ function DismissibleExample() {
             <small>Há 1s</small>
           </Toast.Header>
           
-          <Toast.Body>Miaaauuu, Cookie, Zeze e Serafina adoraram seu carinho *--*</Toast.Body>
+          <Toast.Body>Miaaauuu, Cookie, Zeze e Serafina adoraram seu carinho *--* , é um Elemento de saída também :o</Toast.Body>
         </Toast>
         </div>
       </Col>
