@@ -9,7 +9,7 @@ function Navbarr() {
   return (
     <Navbar bg="light" expand="lg">
       <Container fluid>
-        <Navbar.Brand href="#">KamiKats</Navbar.Brand>
+        <Navbar.Brand href="#">KamiKats NavBar</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
@@ -19,7 +19,7 @@ function Navbarr() {
           >
             <Nav.Link href="#action1">Home</Nav.Link>
             <Nav.Link href="#action2">Fotos</Nav.Link>
-            <NavDropdown title="Meus Gatos" id="navbarScrollingDropdown">
+            <NavDropdown title="Meus Gatos - DROPDOWN" id="navbarScrollingDropdown">
               <NavDropdown.Item href="#action3">Cookie</NavDropdown.Item>
               <NavDropdown.Item href="#action4">
                Zezé

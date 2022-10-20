@@ -11,7 +11,7 @@ function CarouselFadeExample() {
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>Cookie</h3>
+          <h3>Cookie - Carousel</h3>
           <p> Meu gatinho lindo, tem 3 anos de idade e é muito brincalhão</p>
         </Carousel.Caption>
       </Carousel.Item>

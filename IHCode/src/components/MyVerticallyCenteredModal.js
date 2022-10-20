@@ -15,11 +15,11 @@ function MyVerticallyCenteredModal(props) {
     >
       <Modal.Header closeButton>
         <Modal.Title id="contained-modal-title-vcenter">
-          CONFIRMAÇÃO DE E-MAIL
+          CONFIRMAÇÃO DE E-MAIL - MODAL
         </Modal.Title>
       </Modal.Header>
       <Modal.Body>
-        <h4>Confirme seu E-Mail</h4>
+        <h4>Código enviado!</h4>
         <p>
           Foi enviado um código para: cayobrunogostosao@hotmail.com
         </p>

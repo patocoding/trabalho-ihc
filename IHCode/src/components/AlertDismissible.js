@@ -9,7 +9,7 @@ function AlertDismissible() {
   return (
     <>
       <Alert show={show} variant="success">
-        <Alert.Heading>ATENÇÃO</Alert.Heading>
+        <Alert.Heading>ATENÇÃO - ALERTA</Alert.Heading>
         <p>
           Não doar signifca deixar meus gatos com fome, você faria isso com 3 gatos indefesos?
         </p>

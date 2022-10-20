@@ -17,7 +17,7 @@ function DismissibleExample() {
       <Col md={6} className="mb-2">
         <div className={styles.carinho}>
           <Button onClick={toggleShowA} className="mb-2">
-          Clique aqui para fazer <strong>carinho</strong> nos gatos
+          Clique aqui para fazer <strong>carinho</strong> nos gatos - Toaster
         </Button>
         </div>
         <div className={styles.carinho}>
