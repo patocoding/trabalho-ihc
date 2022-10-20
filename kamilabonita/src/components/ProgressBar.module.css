@@ -1,0 +1,27 @@
+.progressbar{
+    width: 200px;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.progressbar_wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.paragrafo{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 600;
+    
+}
+
+.iloveyou{
+    font-weight: 700;
+    color: rgb(25, 167, 25);
+}
+
+.agora{
+    font-weight: bold;
+}

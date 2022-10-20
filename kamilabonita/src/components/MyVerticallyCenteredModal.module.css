@@ -1,0 +1,19 @@
+.modal_wrapper{
+    margin-left: 5em;
+    margin-bottom: 2em;
+    margin-top: 1em;
+}
+
+.modal{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+}
+
+.justifycenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
